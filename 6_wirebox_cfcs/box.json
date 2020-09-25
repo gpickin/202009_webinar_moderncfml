@@ -1,0 +1,10 @@
+{
+    "dependencies":{
+        "coolbanner":"^1.0.0",
+        "wirebox":"^6.0.0+1296"
+    },
+    "installPaths":{
+        "coolbanner":"modules/coolbanner/",
+        "wirebox":"wirebox/"
+    }
+}
